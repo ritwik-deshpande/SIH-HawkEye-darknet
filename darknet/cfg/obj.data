@@ -1,0 +1,6 @@
+classes= 1  
+train  = /home/shalaka/darknet/data/obj/train.txt  
+valid  = /home/shalaka/darknet/data/obj/test.txt
+names = /home/shalaka/darknet/cfg/obj.names  
+backup = /home/shalaka/darknet/cfg/backup/
+
